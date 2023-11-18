@@ -29,7 +29,7 @@ function App() {
   return (
     <div className="App">
       <button onClick={() => setOpen(true)} className="open-modal-btn">
-        ✨ Открыть окно
+        ✨ Open the windowgit ap
       </button>
 
       {/* {open && (
